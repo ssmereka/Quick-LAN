@@ -1,0 +1,17 @@
+---------------
+- Update Help -
+---------------
+
+1. Command Prompt Stuck at: "Updating Installation"
+
+  a) Make sure these programs are closed:
+	1. Command Prompt
+	2. SRCDS.EXE
+	3. Steam
+  b) Make sure it is not being blocked by firewalls
+  c) Is the program trusted?
+
+2. Update Wont work at all?
+   
+  a) Try reinstalling to a new directory
+     or deleting the old install files.

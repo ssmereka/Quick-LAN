@@ -1,0 +1,4 @@
+Subnet calculator
+renew ip
+show ip
+calculator

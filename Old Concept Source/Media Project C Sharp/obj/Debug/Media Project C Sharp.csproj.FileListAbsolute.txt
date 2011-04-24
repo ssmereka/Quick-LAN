@@ -1,0 +1,11 @@
+F:\Visual Studio Projects\Media Project C_Sharp\Media Project C Sharp\bin\Debug\Media Project C Sharp.exe
+F:\Visual Studio Projects\Media Project C_Sharp\Media Project C Sharp\bin\Debug\Media Project C Sharp.pdb
+F:\Visual Studio Projects\Media Project C_Sharp\Media Project C Sharp\obj\Debug\ResolveAssemblyReference.cache
+F:\Visual Studio Projects\Media Project C_Sharp\Media Project C Sharp\obj\Debug\Media_Project_C_Sharp.Properties.Resources.resources
+F:\Visual Studio Projects\Media Project C_Sharp\Media Project C Sharp\obj\Debug\Media Project C Sharp.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\Media Project C_Sharp\Media Project C Sharp\obj\Debug\Media Project C Sharp.exe
+F:\Visual Studio Projects\Media Project C_Sharp\Media Project C Sharp\obj\Debug\Media Project C Sharp.pdb
+F:\Visual Studio Projects\Media Project C_Sharp\Media Project C Sharp\obj\Debug\Media_Project_C_Sharp.Form1.resources
+F:\Visual Studio Projects\Media Project C_Sharp\Media Project C Sharp\obj\Debug\Media_Project_C_Sharp.ServCfg.resources
+C:\Users\Scott\Desktop\Media Project C_Sharp\Media Project C Sharp\obj\Debug\Media Project C Sharp.exe
+C:\Users\Scott\Desktop\Media Project C_Sharp\Media Project C Sharp\obj\Debug\Media Project C Sharp.pdb

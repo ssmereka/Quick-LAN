@@ -1,0 +1,14 @@
+--------------
+- HLDS ERROR -
+--------------
+
+You must first install or locate the hldsupdatetool.exe.
+
+Install:
+1. Go to File -> Install Server -> HLDS Update Tool.
+2. Follow the prompts from the installer.
+3. Make sure you note the installtion location as you will need this for Servers to be installed.
+
+Locate:
+1. Browse or go to start -> search for hldsupdatetool.exe
+2. Select the directory it is in and click ok.
